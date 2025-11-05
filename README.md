@@ -26,9 +26,9 @@ This repository provides a modular framework for training, evaluating, and inter
 ## Requirements
 
 - Python **3.8+** (recommended 3.10 or newer)
-- Packages:
+- Packages(core pipeline):
   ```bash
-  pip install numpy pandas scikit-learn matplotlib seaborn
+  pip install numpy pandas scikit-learn scipy tensorflow xgboost imblearn matplotlib seaborn joblib
   ```
 
 ---
